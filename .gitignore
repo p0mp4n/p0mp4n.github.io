@@ -32,3 +32,7 @@ _site
 .obsidian/core-plugins.json
 .obsidian/appearance.json
 .obsidian/app.json
+.obsidian/plugins/obsidian-custom-attachment-location/manifest.json
+.obsidian/plugins/obsidian-custom-attachment-location/main.js
+.obsidian/plugins/obsidian-custom-attachment-location/data.json
+.obsidian/community-plugins.json
