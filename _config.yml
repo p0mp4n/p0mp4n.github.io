@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "공책이 비싸서 만든 개발로그"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "p0mp4n"
+title                    : "개발로그"
+title_separator          : "|"
+subtitle                 : "If there is no wind, row"
+name                     : "Devlog"
 description              : "An amazing website."
 url                      : "https://p0mp4n.github.io" # the base hostname & protocol for your site e.g. 
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "p0mp4n"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "가랑비에 옷 젖듯"
-  location         : "⛩Tokyo,Japan"
+  bio              : "저의 개발관련 기록 블로그 입니다"
+  location         : "Tokyo,Japan"
   email            :
   links:
     - label: "Email"
